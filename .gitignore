@@ -8,7 +8,7 @@ __pycache__/
 # Ignore Jupyter checkpoint files
 .ipynb_checkpoints/
 
-# Ignore model and preprocessing files (if you don't want to upload them)
+# Ignore model and preprocessing files
 *.pkl
 *.h5
 
