@@ -16,6 +16,6 @@ __pycache__/
 *.json
 *.json3
 
-# Ignore secrets (if not managed securely)
+# Ignore secrets
 secrets.toml
 .env
