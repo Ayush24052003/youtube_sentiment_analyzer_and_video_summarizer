@@ -105,7 +105,7 @@ with col2:
                     max_summary_words=max_summary_words
                 )
 
-                if summary and not summary.startswith("❌") and "error" not in summary.lower():
+                if summary and not summary.startswith("No") and "error" not in summary.lower():
                     st.subheader("Transcript Summary")
                     st.write(summary)
 
