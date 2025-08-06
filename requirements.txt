@@ -1,0 +1,13 @@
+streamlit
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+nltk
+keras
+joblib
+langdetect
+requests
+yt-dlp

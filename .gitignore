@@ -1,0 +1,21 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment
+.venv/
+
+# Ignore Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Ignore model and preprocessing files (if you don't want to upload them)
+*.pkl
+*.h5
+
+# Ignore transcript or API response files
+*.json
+*.json3
+
+# Ignore secrets (if not managed securely)
+secrets.toml
+.env
